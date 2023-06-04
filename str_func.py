@@ -9,3 +9,5 @@ def new_text(text = input().title()):
   return text
 
 print(new_text())
+
+print("Hello World")
